@@ -61,3 +61,8 @@ without any user input: print random color
 with user input of a color name: print the specified color
 
 with user input of a color name and a luminosity: print the specified color in the specified luminosity
+
+## Todo
+
+- [x] Find library which generates random colors
+- [ ] Find out how to style console outputs
